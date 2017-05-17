@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "316763323278",
+    "firebase_url": "https://apporio-taxi.firebaseio.com",
+    "project_id": "apporio-taxi",
+    "storage_bucket": "apporio-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316763323278:android:4589187b0f63f08a",
+        "android_client_info": {
+          "package_name": "com.apporio.demotaxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316763323278-epqkso9b6dbgcjg7tmu2k7tolnpo2k6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnY_rdvq428khKfdK1ruYBHQHtMPnWGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316763323278-epqkso9b6dbgcjg7tmu2k7tolnpo2k6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316763323278:android:f36f1f27cbc5e6fe",
+        "android_client_info": {
+          "package_name": "com.apporio.demotaxiappdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316763323278-epqkso9b6dbgcjg7tmu2k7tolnpo2k6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnY_rdvq428khKfdK1ruYBHQHtMPnWGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

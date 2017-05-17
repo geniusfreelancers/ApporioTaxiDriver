@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#95a5a6</color>
+    <color name="colorPrimaryDark">#687576</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorHeader">#ffffff</color>
+    <color name="colorFooter">#ffffff</color>
+    <color name="colorText">#000000</color>
+    <color name="colorTextFooter">#000000</color>
+    <color name="colorView">#e9e9e9</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+
+
+
+    ///////////////////////  menu colors
+    <color name="color_menu_icon">#34495e</color>
+    <color name="color_menu_text">#34495e</color>
+    <color name="color_menu_back_ground">#ffffff</color>
+    <color name="color_menu_header_background">#DDE2E3</color>
+    <color name="color_menu_header_bold_text">#000</color>
+    <color name="color_menu_header_small_text">#687576</color>
+
+
+
+    ////////////////////////  others colors
+    <color name="icons_8_muted_grey">#95a5a6</color>
+    <color name="icons_8_muted_greydark">#687576</color>
+    <color name="pure_white">#ffffff</color>
+    <color name="pure_black">#000000</color>
+
+
+
+
+    //////  text specific
+    <color name="red_text">#e74c3c</color>
+    <color name="green_text">#2ecc71</color>
+
+
+
+    //// theme color for treack ride screen
+    <color name="track_ride_color_theme">#242f3e</color>
+    <color name="track_ride_color_theme_text">#ffffff</color>
+
+
+
+
+    ////// extra colors
+    <color name="icons_8_muted_red">#e74c3c</color>
+    <color name="icons_8_muted_red_dark">#c0392b</color>
+    <color name="icons_8_muted_yellow">#f1c40f</color>
+    <color name="icons_8_muted_yellow_dark">#f39c12</color>
+    <color name="icons_8_muted_orange">#e67e22</color>
+    <color name="icons_8_muted_orange_dark">#d35400</color>
+    <color name="icons_8_muted_green_1">#2ecc71</color>
+    <color name="icons_8_muted_green_1_transparent">#b82ecc71</color>
+    <color name="icons_8_muted_green_1_dark">#27ae60</color>
+    <color name="icons_8_muted_green_2">#1abc9c</color>
+    <color name="icons_8_muted_green_2_dark">#16a085</color>
+    <color name="icons_8_muted_blue">#3498db</color>
+    <color name="icons_8_muted_blue_dark">#2980b9</color>
+    <color name="icons_8_muted_violet">#9b59b6</color>
+    <color name="icons_8_muted_violet_dark">#8e44ad</color>
+    <color name="icons_8_muted_offWhite">#ecf0f1</color>
+    <color name="icons_8_muted_offWhite_dark">#bdc3c7</color>
+    <color name="icons_8_muted_grey_transparent">#aa95a5a6</color>
+
+
+
+
+
+</resources>

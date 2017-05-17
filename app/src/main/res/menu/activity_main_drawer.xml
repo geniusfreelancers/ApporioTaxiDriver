@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/gp7"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/report"
+            android:title="Profile" />
+    </group>
+
+    <group
+        android:id="@+id/gp5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_rides"
+            android:icon="@drawable/report"
+            android:title="My Rides" />
+    </group>
+
+    <group
+        android:id="@+id/gp6"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_earnings"
+            android:icon="@drawable/report"
+            android:title="Earnings" />
+    </group>
+
+    <group
+        android:id="@+id/gp1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/report_issue"
+            android:icon="@drawable/report"
+            android:title="Report Issue" />
+    </group>
+
+    <group
+        android:id="@+id/gp2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/call_support"
+            android:icon="@drawable/call"
+            android:title="Call Support" />
+    </group>
+
+    <group
+        android:id="@+id/gp3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/t_c"
+            android:icon="@drawable/info"
+            android:title="Terms &amp; Conditions" />
+    </group>
+
+    <group
+        android:id="@+id/gp4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/info"
+            android:title="About" />
+    </group>
+</menu>

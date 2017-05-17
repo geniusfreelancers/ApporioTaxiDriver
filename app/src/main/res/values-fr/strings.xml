@@ -1,0 +1,258 @@
+<resources>
+    <string name="app_name">Apporio Taxi</string>
+    <string name="taxi_app_driver">IZYCAB chauffeur</string>
+
+    <string name="closeDrawer">Fermer</string>
+    <string name="openDrawer">Ouvrir</string>
+
+    <string name="about_us">À Propos</string>
+
+
+    <string name="select_city_small">Sélectionnez une ville</string>
+
+    <string name="change_password">Changer mot de passe</string>
+    <string name="old_password">Ancien mot de passe</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer mot de passe</string>
+    <string name="done">Ok</string>
+
+    <string name="client_detail">DÉTAILS CLIENT </string>
+    <string name="info">INFO</string>
+    <string name="pickup_location">LIEU DE DÉPART</string>
+    <string name="drop_location">LIEU D\'ARRIVÉE</string>
+    <string name="arrived">NOTIFIER VOTRE ARRIVÉE</string>
+    <string name="begin">DÉMARRER LA COURSE</string>
+    <string name="end">TERMINER LA COURSE</string>
+
+    <string name="upload_documents">TÉLÉCHARGER DOCUMENTS</string>
+    <string name="long_text">Pour la validation de votre inscription, vous devez télécharger et nous envoyer votre Permis de conduire, Assurance et Carte grise</string>
+    <string name="insurance">Assurance</string>
+    <string name="licence">Permis de conduire</string>
+    <string name="registration">Carte grise</string>
+    <string name="other_docs">Autres documents</string>
+    <string name="ok">ok</string>
+
+    <string name="forgot_password">Mot de passe oublié</string>
+    <string name="enter_email">Saisir un Email</string>
+
+
+    <string name="go_online">En Ligne</string>
+
+    <string name="customer_info">INFORMATIONS CLIENT</string>
+    <string name="address">Adresse</string>
+
+    <string name="login">CONNEXION</string>
+    <string name="email_phone">Email/Téléphone</string>
+    <string name="password">Mot de passe</string>
+    <string name="forgot_password_1">Mot de passe oublié?</string>
+
+    <string name="my_location">MA POSITION</string>
+    <string name="go_offline">Hors ligne</string>
+    <string name="getting_location">Recherche de votre position..</string>
+
+    <string name="ride_fare">Tarif du trajet</string>
+    <string name="total_payable_amount">Montant total</string>
+    <string name="total_distance">Distance totale  - </string>
+    <string name="total_time">Durée totale - </string>
+    <string name="rate_your_ride">Evaluer votre trajet</string>
+    <string name="submit">SOUMETTRE</string>
+
+    <string name="your_account">VOTRE COMPTE</string>
+    <string name="email_id_big">EMAIL</string>
+    <string name="password_big">MOT DE PASSE</string>
+    <string name="name_big">NOM</string>
+    <string name="mobile_big">NUMÉRO TÉLÉPHONE</string>
+    <string name="logout">DÉCONNEXION </string>
+
+    <string name="trip_conformation">CONFIRMATION TRAJET</string>
+    <string name="accept">ACCEPTER</string>
+    <string name="reject">REJETER</string>
+
+    <string name="register">INSCRIPTION</string>
+    <string name="enter_name">Saisir un Nom</string>
+    <string name="enter_mobile">Saisir un Téléphone</string>
+    <string name="enter_password">Saisir un Mot de passe</string>
+    <string name="select_car_type">Choisir le type de véhicule</string>
+    <string name="select_car_model">Choisir Le Modèle</string>
+    <string name="enter_car_number">Saisir L\'immatriculation</string>
+    <string name="continuee">SUIVANT</string>
+
+    <string name="login_as_testing">Identifiant pour test</string>
+
+    <string name="tc">Mentions légales</string>
+
+    <string name="select_car_type1">Choisir le type de véhicule</string>
+    <string name="select_car_model1">Choisir Le Modèle</string>
+    <string name="select_city">Choisir une ville</string>
+
+    <string name="upload_file">Télécharger documents</string>
+    <string name="image_file">Fichier image</string>
+    <string name="pdf_file">Fichier PDF</string>
+    <string name="yes">OUI</string>
+    <string name="cancel">ANNULER</string>
+
+    <string name="sign_out">Déconnexion</string>
+    <string name="are_you_sure">Êtes-vous sûr?</string>
+    <string name="no">Non</string>
+
+    <string name="loading">Chargement...</string>
+
+    <string name="oops">Oups !!</string>
+    <string name="network_problem">Probléme de réseau!!</string>
+    <string name="exit">Quitter</string>
+    <string name="refresh">Actualiser</string>
+
+    <string name="report_issue">Soumettre un probléme</string>
+    <string name="call_support">Support téléphonique</string>
+    <string name="about">À Propos</string>
+    <string name="online">En ligne</string>
+    <string name="offline">Hors ligne</string>
+
+    <string name="ride_start">COMMENCER TRAJET</string>
+
+    <string name="user_info">Infos client</string>
+
+    <string name="cancel_ride">Annuler trajet</string>
+
+    <string name="track_ride">Suivre votre véhicule</string>
+
+    <string name="password_not_match">Les mots de passe ne correspondent pas !!!</string>
+    <string name="password_charcter">Le mot de passe doit être au min. 6 caractères</string>
+    <string name="select_star">Veuillez noter le trajet</string>
+
+    <string name="incorrect_otp">Le code otp est incorrecte</string>
+    <string name="phone_character">Le numéro saisi doit avoir au minimum 9 chiffres</string>
+    <string name="no_record_found">Veuillez vérifier votre connexion internet</string>
+
+    <string name="enter_correct_email">Veuillez saisir un email correcte</string>
+
+    <string name="call_user">Appeler</string>
+
+    <string name="name">prénom</string>
+    <string name="car_name">Véhicule</string>
+    <string name="car_number">Immatriculation</string>
+
+    <string name="profile">Profil</string>
+    <string name="my_rides">Mes trajets</string>
+    <string name="earnings">Revenus</string>
+
+    <string name="bill_detail">Facture détaillée</string>
+    <string name="total_fare">Montant Total</string>
+    <string name="mail_invoice">FACTURE PAR EMAIL</string>
+    <string name="support">SUPPORT</string>
+
+    <string name="daily_earnings">REVENUS - QUOTIDIEN</string>
+    <string name="total_rides">Nombre de Trajet</string>
+    <string name="total_earnings">Total Revenu</string>
+
+    <string name="select_reason">SPECIFIER LA RAISON</string>
+
+    <string name="no_rides">Pas de Trajet</string>
+
+    <string name="completed">TERMINÉ</string>
+    <string name="schedued">RESERVÉ</string>
+    <string name="ongoing">EN COURS</string>
+    <string name="rejected">REJETÉ</string>
+    <string name="cancel_by_driver">ANNULÉ</string>
+    <string name="driver_arrived">Conducteur arrivé</string>
+    <string name="new_ride">Nouvelle Course</string>
+    <string name="accepted">Accepté</string>
+
+
+
+//////////////////////////////////  customer support activity
+    <string name="do_you_have_a_query">INFORMATIONS</string>
+    <string name="please_let_us_know_about_your_query_our_support_team_will_get_back_to_you">Veuillez soumettre vos demandes d\'informations au service client pour un traitement rapide.</string>
+    <string name="your_name">votre nom</string>
+    <string name="email">Email</string>
+    <string name="phone">Téléphone</string>
+    <string name="your_query">votre requête</string>
+    <string name="send">ENVOYER</string>
+
+
+
+//////////////////////
+    <string name="customer_support">SUPPORT TÉLÉPHONIQUE</string>
+    <string name="terms_and_condition">MENTIONS LÉGALES</string>
+
+
+
+    <string name="bill_details">Détails Facture</string>
+    <string name="accept_ride">Accepter Ride</string>
+    <string name="reject_ride">Rejeter Ride</string>
+
+    <string name="new_version_available">Nouvelle version disponible</string>
+    <string name="this_is_a_mandatory_app_update_please_update_your_app_version_sorry_for_the_inconvenience_thanks"> Veuillez mettre à jour la version de votre application.</string>
+    <string name="update">Mettre à jour</string>
+    <string name="query_submitted">CONFIRMATION ENVOI</string>
+    <string name="your_query_is_submitted_successfully_our_executive_will_get_back_to_yo_in_any_moment">Votre message a été transmis au service client, qui vous contactera dans les plus brefs délais</string>
+
+
+
+/////////////////////////////////////////////////////////////  need to change
+
+
+
+
+
+
+
+
+   <string name="old_pasword_field_is_empty">Veuillez saisir l\'ancien mot de passe</string>
+<string name="new_password_field_is_empty">Veuillez saisir le nouveau mot de passe</string>
+<string name="confirm_password_field_is_empty">Veuillez confirmer le nouveau mot de passe</string>
+<string name="set_password_id_of_min_six_character">Le mot de passe doit contenir au min 6 caractères</string>
+<string name="password_not_matched">Erreur les deux mots de passes ne correspondent pas!!!</string>
+<string name="please_enter_the_maindatory_details">Veuillez saisir les champs obligatoires</string>
+<string name="no_data_found">Aucune information disponible</string>
+<string name="service_missing">SERVICE NON DISPONIBLE</string>
+<string name="update_required">LA MISE A JOUR EST OBLIGATOIRE</string>
+<string name="please_upload_insurance_copy">Veuillez télécharger votre assurance</string>
+<string name="please_upload_copy">Veuillez télécharger votre permis de conduire</string>
+<string name="please_rc_copy">Veuillez télécharger votre carte grise</string>
+<string name="insurance_copy_saved">La copie de votre assurance est enregistée</string>
+<string name="lisence_copy_saved">La copie de votre permis de conduire est enregistée</string>
+<string name="RC_copy_saved">La copie de votre carte grise est enregistée</string>
+<string name="document_copy_saved">La copie de vos documents sont enregistés</string>
+<string name="please_enter_email">Veuillez saisir un email</string>
+<string name="email_can_not_be_empty">Le Champs email doit être saisi!</string>
+<string name="password_can_not_be_empty">Le Champs mot de passe doit être saisi!</string>
+<string name="currency_symbol">  FCFA</string>
+<string name="distance_symbol"> KM</string>
+<string name="please_select_stars">Veuillez évaluer votre trajet</string>
+<string name="name_can_not_be_empty">Le Champs nom doit être saisi</string>
+<string name="phone_can_not_be_empty">Le Champs numéro mobile doit être saisi</string>
+<string name="time_out">Délai d\'attente</string>
+<string name="no_city_found">Aucune ville trouvée</string>
+<string name="please_select_city">Veuillez choisir une ville</string>
+<string name="no_car_found">Pas de Chauffeur disponible</string>
+<string name="please_select_car_type_first">Veuillez choisir une marque</string>
+<string name="no_car_model_found">Aucun modéle disponible</string>
+<string name="please_enter_phone">Veuillez saisir un numéro mobile</string>
+<string name="please_enter_password">Veuillez saisir un mot de passe</string>
+<string name="please_select_car_type">Veuillez choisir une marque</string>
+<string name="please_select_car_model">Veuillez saisir un modéle</string>
+<string name="please_enter_car_number">Veuillez saisir un numéro d\'immatriculation</string>
+<string name="please_enter_correct_email">Veuillez saisir un email valide</string>
+<string name="phone_number_should_be_of_ten_digit">Le numéro mobile doit contenir au min 10 caractères</string>
+<string name="password_should_be_minimum_six_digit">Le mot de passe doit contenir au min 6 caractères</string>
+<string name="no_internet_connection">Veuillez vérifier votre connexion internet</string>
+    <string name="please_enter_name">Veuillez saisir un nom</string>
+    <string name="booking_cancel_by_customer">Annulation par client</string>
+
+
+
+    <string name="your_location">VOTRE POSITION</string>
+    <string name="rides">TRAJETS</string>
+    <string name="accpted">ACCEPTÉ</string>
+    <string name="reached">ARRIVÉ</string>
+    <string name="total_earning">Total Revenus</string>
+    <string name="retry">RECOMMENCEZ</string>
+    <string name="driver">Driver</string>
+    <string name="getting_your_location_please_move_your_vehicle">Getting your location please mover your vehicle.</string>
+    <string name="please_start_your_ridr_first">Please start your ride first !</string>
+
+
+    /////////////////////////
+
+</resources>

@@ -1,0 +1,207 @@
+<resources>
+
+    <string name="google_map_key">AIzaSyBdPzZYzxqNuLLoUfWySRgemY4nwh8Jnog</string>
+
+    <string name="app_name">Apporio Taxi Driver</string>
+    <string name="closeDrawer">Close</string>
+    <string name="openDrawer">open</string>
+
+    <string name="about_us">ABOUT US</string>
+
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="done">DONE</string>
+
+    <string name="client_detail">CLIENT DETAIL</string>
+    <string name="info">INFO</string>
+    <string name="pickup_location">PICKUP LOCATION</string>
+    <string name="drop_location">DROP LOCATION</string>
+    <string name="arrived">LOCATED</string>
+    <string name="begin">BEGIN TRIP</string>
+    <string name="end">End Trip</string>
+
+    <string name="upload_documents">UPLOAD DOCUMENTS</string>
+    <string name="long_text">For Registering with us you have to upload documents like :- Licence, Insurance, RC </string>
+    <string name="insurance">Insurance</string>
+    <string name="licence">Licence</string>
+    <string name="registration">RC</string>
+    <string name="other_docs">Other Documents</string>
+    <string name="ok">OK</string>
+
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="enter_email">Enter Email</string>
+
+    <string name="go_online">GO ONLINE</string>
+
+    <string name="customer_info">CUSTOMER INFORMATION</string>
+    <string name="address">Address</string>
+
+    <string name="login">LOGIN</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="password">Password</string>
+    <string name="forgot_password_1">Forgot Password?</string>
+
+    <string name="my_location">MY LOCATION</string>
+    <string name="go_offline">Go Offline</string>
+    <string name="getting_location">Getting location...</string>
+
+    <string name="ride_fare">RIDE FARE</string>
+    <string name="total_payable_amount">Total Payable Amount</string>
+    <string name="total_distance">Total Distance - </string>
+    <string name="total_time">Total Time - </string>
+    <string name="rate_your_ride">Rate your Ride</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="your_account">YOUR ACCOUNT</string>
+    <string name="email_id_big">EMAIL ID</string>
+    <string name="password_big">PASSWORD</string>
+    <string name="name_big">NAME</string>
+    <string name="mobile_big">MOBILE NUMBER</string>
+    <string name="logout">LOGOUT</string>
+
+    <string name="trip_conformation">TRIP CONFIRMATION</string>
+    <string name="accept">ACCEPT</string>
+    <string name="reject">REJECT</string>
+
+    <string name="register">REGISTER</string>
+    <string name="continuee">CONTINUE</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="select_car_type">Select Car Type</string>
+    <string name="select_car_model">Select Car Model</string>
+    <string name="enter_car_number">Enter Car Number</string>
+    <string name="select_reason">SELECT REASON</string>
+
+    <string name="login_as_testing">LOGIN AS TESTING</string>
+
+    <string name="tc">Terms &amp; Conditions</string>
+
+    <string name="select_car_type1">SELECT CAR TYPE</string>
+    <string name="select_car_model1">SELECT CAR MODEL</string>
+    <string name="select_city">SELECT CITY</string>
+
+    <string name="upload_file">Upload File</string>
+    <string name="image_file">Image File</string>
+    <string name="pdf_file">PDF File</string>
+    <string name="yes">YES</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="sign_out">Sign out</string>
+    <string name="new_version">New Version Avaiable</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="no">NO</string>
+    <string name="force_update">Update</string>
+
+    <string name="oops">Oops !!</string>
+    <string name="network_problem">Network Problem!!</string>
+    <string name="exit">EXIT</string>
+    <string name="refresh">REFRESH</string>
+
+    ////////////////////////////////
+
+
+    <string name="profile">Profile</string>
+    <string name="my_rides">My Rides</string>
+    <string name="earnings">Earnings</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="call_support">Call Support</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="show_notification">Show notification</string>
+    <string name="no_rides">No Rides!!</string>
+    <string name="daily_earnings">DAILY EARNINGS</string>
+    <string name="your_location">Your location</string>
+    <string name="rides">RIDES</string>
+    <string name="track_ride">Track ride</string>
+    <string name="bill_details">Bill Details</string>
+    <string name="total_fare">Total Fare</string>
+    <string name="call_user">Call User</string>
+    <string name="accept_ride">Accept Ride</string>
+    <string name="reject_ride">Reject Ride</string>
+    <string name="cancel_ride">Cancel Ride</string>
+    <string name="booking_cancel_by_customer">Ride Cancelled By Customer !</string>
+    <string name="this_is_a_mandatory_app_update_please_update_your_app_version_sorry_for_the_inconvenience_thanks">This is a mandatory app update. Please update your app version. Sorry for the inconvenience. Thanks</string>
+    <string name="update">Update</string>
+    <string name="new_version_available">New Version Available</string>
+    <string name="ride_start">Ride Start</string>
+    <string name="remind_me_later">Remind me Later</string>
+    <string name="new_text">New Text</string>
+    <string name="total_rides">Total Rides</string>
+    <string name="total_earning">Total Earning</string>
+    <string name="version">Version</string>
+    <string name="old_pasword_field_is_empty">Old Password field is empty</string>
+    <string name="new_password_field_is_empty">New Passwprd field is empty</string>
+    <string name="confirm_password_field_is_empty">Confirm Password field is empty</string>
+    <string name="set_password_id_of_min_six_character">Set password id of min. 6 character</string>
+    <string name="password_not_matched">Password Not Matched !!!</string>
+    <string name="loading">Loading...</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="service_missing">SERVICE MISSING</string>
+    <string name="update_required">UPDATE REQUIRED</string>
+    <string name="please_upload_insurance_copy">Please Upload insurance copy</string>
+    <string name="please_upload_copy">Please Upload licence copy</string>
+    <string name="please_rc_copy">Please Upload rc copy</string>
+    <string name="insurance_copy_saved">Insurance Copy Saved</string>
+    <string name="lisence_copy_saved">Licence Copy Saved</string>
+    <string name="RC_copy_saved">RC Copy Saved</string>
+    <string name="document_copy_saved">Documents Copy Saved</string>
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="email_can_not_be_empty">Email field can\'t be Empty!</string>
+    <string name="password_can_not_be_empty">Password field can\'t be Empty</string>
+    <string name="please_select_stars">Please select stars</string>
+    <string name="name_can_not_be_empty">Name can\'t be empty</string>
+    <string name="phone_can_not_be_empty">Phone can\'t be empty</string>
+    <string name="time_out">Time Out</string>
+    <string name="no_city_found">No City Found</string>
+    <string name="please_select_city">Please Select City First</string>
+    <string name="no_car_found">No Car Type Found</string>
+    <string name="please_select_car_type_first">Please Select Car Type First</string>
+    <string name="no_car_model_found">No Car Model Found</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="please_enter_phone">Please Enter Phone</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_select_car_type">Please Select Car Type</string>
+    <string name="please_select_car_model">Please Select Car Model</string>
+    <string name="please_enter_car_number">Please Enter car Number</string>
+    <string name="please_enter_correct_email">Please Enter Correct Email</string>
+    <string name="phone_number_should_be_of_ten_digit">Phone should be of 10 digits</string>
+    <string name="password_should_be_minimum_six_digit">Password should be of min. 6 character</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="send">SEND</string>
+    <string name="do_you_have_a_query">Do you have a query</string>
+    <string name="your_name">your name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="your_query">your Query</string>
+    <string name="please_enter_the_maindatory_details">Please Enter the mandatory details</string>
+    <string name="please_let_us_know_about_your_query_our_support_team_will_get_back_to_you">Please let us know about your query , our support team will get back to you</string>
+    <string name="query_submitted">Query Submitted</string>
+    <string name="your_query_is_submitted_successfully_our_executive_will_get_back_to_yo_in_any_moment">Your Query is submitted successfully , our executive will get back to yo in any moment</string>
+    <string name="currency_symbol">$</string>
+    <string name="distance_symbol">miles</string>
+    <string name="user_info">User Info</string>
+    <string name="accpted">Accepted</string>
+    <string name="rejected">REJECTED</string>
+    <string name="reached">REACHED</string>
+    <string name="ongoing">ON GOING</string>
+    <string name="new_ride">New Ride</string>
+    <string name="cancel_by_driver">Cancel by Driver</string>
+    <string name="retry">Retry</string>
+
+
+
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+    <string name="distance">Distance</string>
+    <string name="driver">Driver</string>
+    <string name="getting_your_location_please_move_your_vehicle">Getting your location please mover your vehicle.</string>
+    <string name="please_start_your_ridr_first">Please start your ride first !</string>
+
+
+</resources>
+

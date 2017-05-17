@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/pure_white">
+        <LinearLayout
+            android:id="@+id/ll_profile"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="35dp"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/iv_profile_pic"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/dummy_pic" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_profile_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:text=""
+                    android:singleLine="true"
+                    android:textColor="@color/colorText"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/tv_profile_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:text=""
+                    android:singleLine="true"
+                    android:textColor="@color/colorText"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorView" />
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@color/pure_white">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        android:paddingLeft="25dp"
+                        android:background="@color/pure_white"
+                        android:id="@+id/profile_menu_btn">
+
+                        <ImageView
+                            android:layout_width="@dimen/icon_width"
+                            android:layout_height="@dimen/icon_height"
+                            android:layout_marginRight="10dp"
+                            android:tint="@color/color_menu_icon"
+                            android:src="@drawable/ic_profile_circular"/>
+                        <customviews.TypeFaceTextMonixRegular
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:text="@string/profile"
+                            android:textSize="@dimen/menu_text_size"
+                            android:textColor="@color/color_menu_text"
+                            android:gravity="center|left"/>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        android:paddingLeft="25dp"
+                        android:id="@+id/my_rides_menu_btn"
+                        android:background="@color/pure_white">
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="@dimen/icon_width"
+                            android:layout_height="@dimen/icon_height"
+                            android:layout_marginRight="10dp"
+                            android:src="@drawable/ic_trips"
+                            android:tint="@color/color_menu_icon" />
+
+                        <customviews.TypeFaceTextMonixRegular
+                            android:layout_width="fill_parent"
+                            android:textSize="@dimen/menu_text_size"
+                            android:layout_height="fill_parent"
+                            android:text="@string/my_rides"
+                            android:textColor="@color/color_menu_text"
+                            android:gravity="center|left"/>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:orientation="horizontal"
+                        android:gravity="center"
+                        android:paddingLeft="25dp"
+                        android:id="@+id/my_earnings_menu_btn"
+                        android:background="@color/pure_white">
+                        <ImageView
+                            android:layout_width="@dimen/icon_width"
+                            android:layout_height="@dimen/icon_height"
+                            android:tint="@color/color_menu_icon"
+                            android:layout_marginRight="10dp"
+                            android:src="@drawable/ic_earning"/>
+                        <customviews.TypeFaceTextMonixRegular
+                            android:id="@+id/typeFaceTextMonixRegular2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="center|left"
+                            android:text="@string/earnings"
+                            android:textColor="@color/color_menu_text"
+                            android:textSize="@dimen/menu_text_size" />
+
+
+                    </LinearLayout>
+
+
+
+
+
+
+                </LinearLayout>
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/icons_8_muted_grey"
+                    android:layout_margin="20dp"/>
+
+
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:paddingLeft="25dp"
+                    android:id="@+id/customer_support_menu_btn"
+                    android:background="@color/pure_white">
+
+                    <ImageView
+                        android:layout_width="@dimen/icon_width"
+                        android:layout_height="@dimen/icon_height"
+                        android:tint="@color/color_menu_icon"
+                        android:layout_marginRight="10dp"
+                        android:src="@drawable/call"/>
+
+                    <customviews.TypeFaceTextMonixRegular
+                        android:id="@+id/typeFaceTextMonixRegular"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center|left"
+                        android:text="@string/customer_support"
+                        android:textColor="@color/color_menu_text"
+                        android:textSize="@dimen/menu_text_size" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:paddingLeft="25dp"
+                    android:id="@+id/terms_and_condition_menu_btn"
+                    android:background="@color/pure_white">
+
+                    <ImageView
+                        android:layout_width="@dimen/icon_width"
+                        android:layout_height="@dimen/icon_height"
+                        android:tint="@color/color_menu_icon"
+                        android:layout_marginRight="10dp"
+                        android:src="@drawable/ic_terms_condition"/>
+                    <customviews.TypeFaceTextMonixRegular
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:textSize="@dimen/menu_text_size"
+                        android:text="@string/terms_and_condition"
+                        android:textColor="@color/color_menu_text"
+                        android:gravity="center|left"/>
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:paddingLeft="25dp"
+                    android:id="@+id/about_menu_btn"
+                    android:background="@color/pure_white">
+
+                    <ImageView
+                        android:layout_width="@dimen/icon_width"
+                        android:layout_height="@dimen/icon_height"
+                        android:tint="@color/color_menu_icon"
+                        android:layout_marginRight="10dp"
+                        android:src="@drawable/ic_about_us"/>
+                    <customviews.TypeFaceTextMonixRegular
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:textSize="@dimen/menu_text_size"
+                        android:text="@string/about_us"
+                        android:textColor="@color/color_menu_text"
+                        android:gravity="center|left"/>
+                </LinearLayout>
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\908325467b1fc7ce86721a7536d9adba36a9a36d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2492b5a9c9dc2370d117bf3854706530fa256e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_e79074373860f144d3f04dabcb93d3226d260f66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\aa780e386445f722c867e3c2af20112b520a2a61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdc3cb3b5432e1a16be1e54b422f2c2e78f565e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\b2c5f45be2b1232529265f77017c5fcde9c75642\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07f0532974fd8cf084d057d1f961834b60cd4a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\a9441c8e449068c4679221851defdc9af0c11f7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_275fb09025dc04716f078c03de9207c91fe9569b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\d87ea1ca7b299e45d5e55472638672053f58b7a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b8612c482e6b944dc437e3d43421990946ed311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\9639683bb6dc7f6abb0cb4420021c95fef7f8684\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ff66317c33913baed8affff903b1abad70aad06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\4802db9c8b1bcfd3f4c846c541273bb9017587c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_469cc7545e6fd4711eba2ccbafb45c364e67a632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\e0d1aca6d1e86f7815a858dc8b213e59eb6a8bce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a3bdeac74123f71f7e08f0469608d5c4f64d547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\5f5bd62aa52838eec0340e21894e3f801e263559\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9db1a74a39bea57a45d53916ff247bccb0ad344f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\4f2ec475bfb2a1314a332a026dbd0285e4a6d1f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b978e7eafb46cea5b425407bc1378696c057df47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\c6ee2dc4ca564db4c53cae65f180e6f88198ec6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b012378dbd4aabcc97ab9d7f19dc8297d922cd64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\0acd0c2f60d1a88a444a21f3c9e81ffdbf80ea19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc9757ce903a069c806c696b7f5374f538e5e446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7ceefb374eaa4868ee6fb936a439c6e833f7e983\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3d1c764b665248ed53e3274bf94ce4313cc35b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\66c80130a0e22260222e28bc92e55be2eebc0e59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16245b2caeeaed4545e6669ca5d1648a8aa1b0ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\55d0918a37234a3a5730a45df29296e3f7e5e6b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b447445fb9104bbcf02d0404da2fb0dcda6025c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\c25bbeafc4908b3a7e6e5d2d5986a15bdcf0cf9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebee5410a02c63c8d63ff7d6d0c0eba8247e49ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\446cdfd6c8dc62d11d03d7a0ccbdd9db91bb1222\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bfaf9b8ab44ad1fea32402ac51ef46bd53256ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\dd451ce09dac4cfadfecf0a8df5b16399ca91542\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a12ba7a655bb7a20c863ca88c1de20cfa7cb42e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\446cdfd6c8dc62d11d03d7a0ccbdd9db91bb1222\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e1b59cfb79b8235e6899d3099722cb0a49aae84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\ffc12ff5a8973008f2e50dfcfb9807bdccff56a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_486b1670ab138c2b081844a218e9cb3d597e62fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GITREPO\TaxiAppDriver\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdd49d82ec06f945d576f1b7cdcee8318cd24466">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_612b00864f18fe317b0fb0d0d1b19fe6a49f5833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\d8fc924c71c2c791b989afabfd6a863a4d8b0589\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac14140460f2a1c664cee4ecacd2118e0065e963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\92714de79cec5a4d91057b30729f10b7122121fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_324262e83092901179a89c4affb66d3f66efff57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\4dc806bb0442278cf1d6e42a6d78a25f9e59bb0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a76b07a416089228adc86fecc86d0a6e2d71e409">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10d627fe8c8862c2f4678dd643ec237a107dd08e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\61051d1947a5ade588c2f7b8b3c8e5d695b071fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b80297ee38da17056405776774d9b827219b514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7aef9ac521e21796a2d7cd8dd676d30b01caa9a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ce1096b03da5aa808ebf9df3f9a3b17a193058e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\4b67352fc164f9ccf90f8e370a85f49f9328c16b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b2e613bc6c7f58f2788e8fd30d08531416d67e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\9f4694ceb2109d93ee340e7b025701927935d5df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7db18835e418c2cf1adfaf02f655f9ec72ef4143">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e324ed211e20eeeabdc140127fced58391b911ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\5ee7e802e745b643cb9950dcde86fc2d802fefc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3daf185b300bd2d1fdc4095657243069eaf85512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\8ee6f27cf9fe66d71f3f2b970ca8b286bbf1228c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef01b734d9d89338a932928c237c7b741f007af">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9022898d3200fc83fec17e9d8550a61a18c9119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\a96c720c058c91075897da7221af1a397e77013c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_140ebe6e7da4fe21bf7275835dee47ccb358f04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7c599860bae051c033bb3827fe01dad19d140268\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9941cce69a1bb41723f9c4ff38bbd3ed4b599e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\d2123cdd7ce61a41baef5ac22dbdc0a00255cec3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f424f6d841b81df8f60a9689795e024416b199a4">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0393f46ea8fb8a0148d1e49e548e7708625a817d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7bf6260f167c91eda49b653b13c3082f5e89ca04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_696c85226ef1e0ac7a25e7426409412e2a4ea536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7f429f89e33587a7e82d8e6fe7e748fafbdd06a4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7c34cbf26695dc5536bfe5634126d85d5f70c381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_8efe510f50453a633baef0b15facde70d7fc9c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\07271857b214e5cb136daefab49772fcb8794cbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_759be6bc52ac5192564a41f7eb9dd0bb046c835a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\9f89e2fb3873120e7cd348aba86d9cb71dfbb449\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d275d9cac81adfbaa5e041f4723307245dd0ee1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\d4a38fd6a86503e1ffa61b9a7c6614fabea7cf3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4acf29a0d9f496eb6e65a68e62874123dbb8f700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\6bb0c30c7712d5bd02d7a36cb673b634d431a39a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec2f9bc35427b6dc2676ba53cea143a9bfaf3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GITREPO\TaxiAppDriver\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d55c73183b6c833c6d9e38cf4afde6e21be8097e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\887c36a517a444e0301a80428801ded110560146\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe8b065df907701c014c06396cf089b50523ef56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\58aac1177a13c81ab1f575a86a17b02fdf82f1b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7780b9aba418f4e22878f48cd77372a7688bb0b7">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6dc3e2e9407b807aa4d3e0c9e8def6ad33606f4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\084bc3aead90f72f5536d0a3a86f221b0cffc651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0447105c57ec8bea8857beaee341f217a8f8e708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\9da8210956ef3cb80fa45852645f2356d2961aa4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb01597630854f2e5f60b62d1ec0401595a5570e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\6c7c148ce4d47bd18a48c2b478f1608c527912bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b1ff0fec59b244179bbc7246469798dfff6ea6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7f429f89e33587a7e82d8e6fe7e748fafbdd06a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90180ad964f44b5f4a3c4a876d860a912314e2b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\6e13cdb5f2e7d80dc7b5d76cffa2569952ec841d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c1344e2b8b742372540ba1b27665358431be708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\2796badd3f7e5656e3cce5755f34ccd7c14417ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ff428c1c645e90aa227a032373a115459e26434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\f34c42f8006c0fc128525a82cd572647bcfd3964\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d10bd23a4edae544d43711243e20f1fdee85542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7da40fb561acb7ffbba6e41716a9bec824f4965a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a08cbac1d0e4782d6f492f9d7d7249a44da50fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\7ceefb374eaa4868ee6fb936a439c6e833f7e983\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91b5fee8009b70aba62dc243592b29ecd554aaa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\26041b256eeddd1babffc8443806b5050f75f239\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aceebd04536a1f16623f896f46ebdbb46ab24436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\89c8783d9bdf54d68b5e2ccfd8915f42acbcf0ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03b14cd4d4b28bef1a1bb823b80999e195d44c26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\f34c42f8006c0fc128525a82cd572647bcfd3964\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_07844619d4492f72d3f92e636aa8a5dd3fad7ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\855906cf1a4e49768fd1119e9296b40639cb32fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd3d4711f07e1189956e76a784fc106edde96f88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\a40d3ac09bab03782c4fc3af9ffedb530df25bfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63a8638cab772bcbabd74e218abe03fdc0ab6455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\cc45916b60ccf17af3c73196b43733a183b0ee88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7b87884ef3882886e3b3d66acebb370a8b25217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\4c0bc31849c7ad0412af96353fa4bac83764a314\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4803488041c259d0b6d81ca4255379ab8a7e8dfe">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8062ce12f32b45b4c3f5184c391c32fb0ae6b04d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\09f0f4cd5ec9ed6563d00c82b3509ba78857738a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62f65e86479d95088765fd2c87ea82ac590e5fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\e90ceaa0ea006080d524eba11d6910544ebd5500\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff19cb2616f30c39effafc7858e659be1b8a4143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\d1a6881d5b349a31a8348cb39a8582d95be47b7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb33c80d6bf593891c5c5af12793abb7b0ee94de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\8ce922cc95b4d6c30ed0cab962ef5257f35697f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0ba29d10e748285ef478786914f5f820d599681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\c5c57edc1cbebf1fbd2d97bf8241f27fe034be67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78981725fb2b4d34168549d8e375c8ea5a0408ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\2fe47fb3cc263deea271e68a0f7f17f7174d51d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fd91d8ad362be3914e33e4dbb32b12d3b21e6f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\85f5157ee2edcddcd4c62e0093d2dcf4aaf3a038\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed4358d71f95fd50f4aff61bf7f45df9618d6aa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\80ce8a23193f1d724e2b68335e204d08788f2b8f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4b5cf7fadf9a69171e854a0af61095709434a843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\c8c1e49deca969217bd15a0c0d46facb04b9a635\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce989236a5cdbfd05cc995324b4d9feca9d76695\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\2780785c8cb9a165551fd217a2fccce0dd293c2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94ec6bb7ef4d2ecb3db0aa5e046746cf409d2f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\69232cfcbbd7c8b7c9268135294e71a283aa1229\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa40983f47c1b9a9f2ac940ee6da130cd03c6e1">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9609ffa25c35f972c5022236adb938872cfb8487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\de9e0eb06d9171f604784fd9d4ec8d804d371f0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bef3d027f6d0083bf1434929a6a23130c378369\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\93865b1c0496e52409cdb61b608a35ae780fe958\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_372b3c7866974bdb8aa90db55406e56da41c401d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\09984b462952e6e876a6056670bf419ac956d03b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2f9181a404dea0b559d620be8345e0b5060e37a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\8c75e2f57529dabfa26de15cc0dac0abbf66edd2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_847530058ce781908252e1dd02a9772376077266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\2f8bd49e58d120bbe44426d8dfd1afe800d2afd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f05b2a9ce74596f25baf966837acd9512c40cca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\1782cd7d46a4d37e0624553dd96963bad5ee0a65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_154dd554dbc2e99555d6a05df0c28d19584919e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\80ce8a23193f1d724e2b68335e204d08788f2b8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70b6d100d3c3dabbbe435326293ecf6ac6a9f64a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\909ac47d4c7fe33c792a9616a9698d0b6bee7a5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_176e421ec7d262714bd2aae23a7cca77b26c2490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_05fb65951dada6d93ccd14b7fe44ad10077f0b8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo-pc\.android\build-cache\21b94f49091950fba23d1037f35f7105b1cd2a6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="E:\GITREPO\TaxiAppDriver\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f929ee9f1f5b91f1a0d7a344ffd8da3123450026\classes.dex" />
+    </item>
+
+</items>
